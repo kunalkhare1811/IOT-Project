@@ -1,0 +1,5 @@
+distance = 500
+distance = 2000
+
+passwoed 12345679 
+usernamwe abcdegf
